@@ -10,7 +10,7 @@ Citát je jediný soubor, který:
 - obsahuje pouze jeden řádek,
 - **neobsahuje** následující text:
   ```
-  This is a random Fairy tale
+  This is a random fairy tale
   ```
 
 ### Požadavek
