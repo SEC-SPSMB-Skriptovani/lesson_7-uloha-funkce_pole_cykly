@@ -21,7 +21,7 @@ Soubor: uloha9/fuzzy-penguin/kind-koala/bold-dolphin.txt
 Citát: "Debugging is like being the detective in a crime movie where you are also the murderer." — Filipe Fortes
 ```
 
-1. Pomocí příkazu `find ./uloha7 -type f` prohledejte celou stromovou strukturu a výsledek načtěte do pole.
+1. Pomocí příkazu `find ./excercise -type f` prohledejte celou stromovou strukturu a výsledek načtěte do pole.
 2. Vytvořte funkci `is_quote()`, která bude vracet `true`, pokud daný soubor obsahuje citát, a `false`, pokud citát neobsahuje. 
 3. Projděte každý prvek pole a pomocí vámi implementované funkce `is_quote()` zkontrolujte, zda daný soubor obsahuje citát.
 4. Výsledek vypište jako standardní výstup do konzole.
